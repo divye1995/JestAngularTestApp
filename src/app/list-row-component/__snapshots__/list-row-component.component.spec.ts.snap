@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListRowComponentComponent should render the component with blue color class 1`] = `
+<app-list-row-component
+  firstName={[Function String]}
+  gender={[Function String]}
+  lastName={[Function String]}
+  rowClick={[Function EventEmitter]}
+>
+  <div
+    class="blue"
+    ng-reflect-ng-class="[object Object]"
+  >
+    <span>
+      James Bond
+    </span>
+    <button
+      data-testid="row-click"
+    >
+      o
+    </button>
+  </div>
+</app-list-row-component>
+`;
+
+exports[`ListRowComponentComponent should render the component with green color class 1`] = `
+<app-list-row-component
+  firstName={[Function String]}
+  gender={[Function String]}
+  lastName={[Function String]}
+  rowClick={[Function EventEmitter]}
+>
+  <div
+    class="green"
+    ng-reflect-ng-class="[object Object]"
+  >
+    <span>
+      James Bond
+    </span>
+    <button
+      data-testid="row-click"
+    >
+      o
+    </button>
+  </div>
+</app-list-row-component>
+`;
